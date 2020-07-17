@@ -1,0 +1,11 @@
+E:\test\Communicator\Communicator\Communicator.Data\bin\Debug\netcoreapp3.1\Communicator.Data.deps.json
+E:\test\Communicator\Communicator\Communicator.Data\bin\Debug\netcoreapp3.1\Communicator.Data.dll
+E:\test\Communicator\Communicator\Communicator.Data\bin\Debug\netcoreapp3.1\Communicator.Data.pdb
+E:\test\Communicator\Communicator\Communicator.Data\bin\Debug\netcoreapp3.1\Communicator.Model.dll
+E:\test\Communicator\Communicator\Communicator.Data\bin\Debug\netcoreapp3.1\Communicator.Model.pdb
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.csprojAssemblyReference.cache
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.AssemblyInfoInputs.cache
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.AssemblyInfo.cs
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.csproj.CopyComplete
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.dll
+E:\test\Communicator\Communicator\Communicator.Data\obj\Debug\netcoreapp3.1\Communicator.Data.pdb

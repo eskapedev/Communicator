@@ -1,0 +1,7 @@
+E:\test\Communicator\Communicator\Communicator.Core.Web\bin\Debug\netcoreapp3.1\Communicator.Core.Web.deps.json
+E:\test\Communicator\Communicator\Communicator.Core.Web\bin\Debug\netcoreapp3.1\Communicator.Core.Web.dll
+E:\test\Communicator\Communicator\Communicator.Core.Web\bin\Debug\netcoreapp3.1\Communicator.Core.Web.pdb
+E:\test\Communicator\Communicator\Communicator.Core.Web\obj\Debug\netcoreapp3.1\Communicator.Core.Web.AssemblyInfoInputs.cache
+E:\test\Communicator\Communicator\Communicator.Core.Web\obj\Debug\netcoreapp3.1\Communicator.Core.Web.AssemblyInfo.cs
+E:\test\Communicator\Communicator\Communicator.Core.Web\obj\Debug\netcoreapp3.1\Communicator.Core.Web.dll
+E:\test\Communicator\Communicator\Communicator.Core.Web\obj\Debug\netcoreapp3.1\Communicator.Core.Web.pdb

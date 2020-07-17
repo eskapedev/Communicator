@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Communicator.Data/1.0.0": {
+        "dependencies": {
+          "Communicator.Model": "1.0.0"
+        },
+        "runtime": {
+          "Communicator.Data.dll": {}
+        }
+      },
+      "Communicator.Model/1.0.0": {
+        "runtime": {
+          "Communicator.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Communicator.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Communicator.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿@model List<Communicator.Model.Dtos.TodoDto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        @foreach (var item in Model)
+        {
+            <div class="row col-6">
+                ToDo:
+                <div class="col-4">
+                    <a asp-action="Todo" asp-controller="Home" asp-route-id="@item.Id">@item.Subject</a>
+                </div>
+            </div>
+            <div class="row col-6">
+                Status:
+                <div class="col-4">
+                    @item.Status
+                </div>
+            </div>
+            <div class="row col-6">
+                ------------------------
+            </div>
+        }
+    </div>
