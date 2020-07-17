@@ -5,17 +5,17 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator.WebApi", "Communicator.WebApi\Communicator.WebApi.csproj", "{0DDF865D-35E6-4F1B-B2AF-840440705471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator.WebApp", "Communicator.WebApp\Communicator.WebApp.csproj", "{460486E6-F20F-4A34-8B8B-82B0FF11A66D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator.WebApp", "Communicator.WebApp\Communicator.WebApp.csproj", "{460486E6-F20F-4A34-8B8B-82B0FF11A66D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1D8B9AD0-153B-47ED-BFD4-DF585CD6B567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator.Core.Web", "Communicator.Core.Web\Communicator.Core.Web.csproj", "{01ECE174-5A95-4B8D-890A-98890504442C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator.Core.Web", "Communicator.Core.Web\Communicator.Core.Web.csproj", "{01ECE174-5A95-4B8D-890A-98890504442C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apis", "Apis", "{2F53AB35-3B95-459B-B878-B828E8C1145A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator.Model", "Communicator.Model\Communicator.Model.csproj", "{DDF9C087-D498-4FDC-AFAD-FFAAFEE50FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator.Model", "Communicator.Model\Communicator.Model.csproj", "{DDF9C087-D498-4FDC-AFAD-FFAAFEE50FEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communicator.Data", "Communicator.Data\Communicator.Data.csproj", "{62A708E8-5219-4A88-AB68-33343650CA97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator.Data", "Communicator.Data\Communicator.Data.csproj", "{62A708E8-5219-4A88-AB68-33343650CA97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
